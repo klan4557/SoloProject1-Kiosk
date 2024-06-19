@@ -1,1 +1,1 @@
-#C# Solo Mini Project
+C# Solo Mini Project
